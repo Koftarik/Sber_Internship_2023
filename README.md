@@ -15,3 +15,7 @@
 6_Transformers.ipynb
 
 7_Document_classifyer_NLP.ipynb
+
+8_NER_Task.ipynb
+
+9_Document_classifyer_combined.ipynb
